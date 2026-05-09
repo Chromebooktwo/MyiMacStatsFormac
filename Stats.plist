@@ -2,10 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>0C745BA9-CD51-4338-A06D-5D87F50DF975_details</key>
+	<true/>
+	<key>7F7D3FE5-C715-4A0A-BE5C-336B8026EE3E_details</key>
+	<true/>
 	<key>9A0B77C5-4435-4A3B-B2A1-1C0F59044C0A_details</key>
+	<true/>
+	<key>AE4B03CA-F2A0-45A0-8A42-B1B5755E2444_details</key>
+	<true/>
+	<key>AF0BAB90-5877-434B-A3D5-19FAA8DE8C62_details</key>
 	<true/>
 	<key>B7C57033-2061-4BAB-AC81-B882D30093F3_details</key>
 	<true/>
+	<key>BBDE1DC2-BFD8-4CCC-8FE2-AB004414492D_details</key>
+	<true/>
+	<key>Battery_notifications_high</key>
+	<string></string>
+	<key>Battery_notifications_low</key>
+	<string>low</string>
 	<key>Battery_state</key>
 	<false/>
 	<key>Bluetooth_state</key>
@@ -52,6 +66,8 @@
 	<integer>1</integer>
 	<key>Disk_widget</key>
 	<string>mini,speed,network_chart</string>
+	<key>EBCDC528-6613-44DA-B50C-D1B1E43520AC_details</key>
+	<true/>
 	<key>GPU_barChart_position</key>
 	<integer>3</integer>
 	<key>GPU_label_position</key>
@@ -98,6 +114,8 @@
 	</dict>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>905 813 430 163 0 0 2240 1235 </string>
+	<key>NSWindow Frame eu.exelban.Stats.Settings.WindowFrame</key>
+	<string>760 445 728 480 0 0 2240 1229 </string>
 	<key>Network_label_position</key>
 	<integer>3</integer>
 	<key>Network_networkChart_position</key>
@@ -162,6 +180,8 @@
 	<integer>1</integer>
 	<key>Sensors_widget</key>
 	<string>mini</string>
+	<key>ble_1c-1d-d3-85-38-91</key>
+	<true/>
 	<key>ble_ec-08-92-d9-06-4e</key>
 	<true/>
 	<key>ble_f4-34-f0-f1-68-cb</key>
@@ -176,6 +196,8 @@
 	<integer>0</integer>
 	<key>fan_1_speed</key>
 	<integer>7128</integer>
+	<key>remote_tokens_migrated_to_keychain</key>
+	<true/>
 	<key>sensor_F0Ac</key>
 	<false/>
 	<key>sensor_F1Ac</key>
@@ -186,15 +208,15 @@
 	<true/>
 	<key>setupProcess</key>
 	<true/>
+	<key>support_ts</key>
+	<integer>1762643772</integer>
 	<key>telemetry</key>
 	<true/>
-	<key>telemetry_id</key>
-	<string>C9315230-709F-45A4-B821-86215D7A61D8</string>
 	<key>temperature_units</key>
 	<string>celsius</string>
 	<key>updater_check_ts</key>
-	<integer>1734046412</integer>
+	<integer>1778286584</integer>
 	<key>version</key>
-	<string>2.11.20</string>
+	<string>2.12.13</string>
 </dict>
 </plist>
